@@ -1,4 +1,4 @@
-zip_code,latitude,longitude,city,state,county
+zip_code,latitude,longitude,city,State,CountyName
 90001,33.973951,-118.248405,Los Angeles,CA,Los Angeles
 90002,33.950514,-118.245855,Los Angeles,CA,Los Angeles
 90003,33.949164,-118.273156,Los Angeles,CA,Los Angeles

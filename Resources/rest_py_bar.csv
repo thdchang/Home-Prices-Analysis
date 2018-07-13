@@ -1,0 +1,114 @@
+,RegionName,counts,State,CountyName,2018-05,Unnamed: 0,Rating_x,House Price Ranking
+0,Arcadia,27.0,CA,Los Angeles,1282500,76.0,4.7,High
+27,Cerritos,3.0,CA,Los Angeles,742700,60.0,4.3,Mid
+30,Claremont,6.0,CA,Los Angeles,701700,0.0,0.0,Mid
+36,Culver City,1025.0,CA,Los Angeles,1317500,8.0,4.2,High
+9261,Downey,1.0,CA,Los Angeles,572400,0.0,0.0,Mid
+9262,Glendale,28.0,CA,Los Angeles,927000,0.0,0.0,High
+9290,Hacienda Heights,3.0,CA,Los Angeles,683900,0.0,0.0,Mid
+9293,Hermosa Beach,3.0,CA,Los Angeles,1979800,4.0,4.5,High
+9296,Inglewood,372.0,CA,Los Angeles,571700,6.0,4.6,Mid
+10784,Long Beach,582.0,CA,Los Angeles,633200,5.0,4.6,Mid
+13694,Los Angeles,4316.0,CA,Los Angeles,714700,7.0,4.7,Mid
+173386,Norwalk,30.0,CA,Los Angeles,480100,61.0,4.4,Low
+173416,Pasadena,42.0,CA,Los Angeles,921500,77.0,4.3,High
+173458,Redondo Beach,508.0,CA,Los Angeles,1197400,2.0,4.7,High
+176506,San Gabriel,29.0,CA,Los Angeles,814400,66.0,4.4,High
+176535,Santa Monica,1397.0,CA,Los Angeles,2665300,13.0,4.6,High
+191902,Torrance,933.0,CA,Los Angeles,866700,0.0,4.6,High
+199366,West Hollywood,483.0,CA,Los Angeles,1764600,19.0,4.5,High
+201298,Whittier,21.0,CA,Los Angeles,580200,0.0,0.0,Mid
+201319,Lancaster,0.0,CA,Los Angeles,279200,0.0,0.0,Low
+201320,Palmdale,0.0,CA,Los Angeles,309700,0.0,0.0,Low
+201321,Santa Clarita,0.0,CA,Los Angeles,586700,0.0,0.0,Mid
+201322,Pomona,0.0,CA,Los Angeles,422000,0.0,0.0,Low
+201323,Compton,0.0,CA,Los Angeles,389500,0.0,0.0,Low
+201324,East Los Angeles,0.0,CA,Los Angeles,439100,0.0,0.0,Low
+201325,El Monte,0.0,CA,Los Angeles,516300,0.0,0.0,Low
+201326,Burbank,0.0,CA,Los Angeles,831200,0.0,0.0,High
+201327,West Covina,0.0,CA,Los Angeles,568000,0.0,0.0,Mid
+201328,South Gate,0.0,CA,Los Angeles,431700,0.0,0.0,Low
+201329,Hawthorne,0.0,CA,Los Angeles,618000,0.0,0.0,Mid
+201330,Alhambra,0.0,CA,Los Angeles,710700,0.0,0.0,Mid
+201331,Lakewood,0.0,CA,Los Angeles,582700,0.0,0.0,Mid
+201332,Carson,0.0,CA,Los Angeles,540400,0.0,0.0,Low
+201333,Bellflower,0.0,CA,Los Angeles,527600,0.0,0.0,Low
+201334,Covina,0.0,CA,Los Angeles,544100,0.0,0.0,Low
+201335,Baldwin Park,0.0,CA,Los Angeles,463300,0.0,0.0,Low
+201336,Huntington Park,0.0,CA,Los Angeles,433700,0.0,0.0,Low
+201337,Lynwood,0.0,CA,Los Angeles,420600,0.0,0.0,Low
+201338,Pico Rivera,0.0,CA,Los Angeles,476000,0.0,0.0,Low
+201339,Rosemead,0.0,CA,Los Angeles,598900,0.0,0.0,Mid
+201340,Gardena,0.0,CA,Los Angeles,552300,0.0,0.0,Mid
+201341,Florence-Graham,0.0,CA,Los Angeles,357600,0.0,0.0,Low
+201342,Monterey Park,0.0,CA,Los Angeles,691800,0.0,0.0,Mid
+201343,Azusa,0.0,CA,Los Angeles,465800,0.0,0.0,Low
+201344,Montebello,0.0,CA,Los Angeles,554200,0.0,0.0,Mid
+201345,South Whittier,0.0,CA,Los Angeles,517400,0.0,0.0,Low
+201346,Glendora,0.0,CA,Los Angeles,620200,0.0,0.0,Mid
+201347,Paramount,0.0,CA,Los Angeles,461600,0.0,0.0,Low
+201348,La Mirada,0.0,CA,Los Angeles,581400,0.0,0.0,Mid
+201349,Diamond Bar,0.0,CA,Los Angeles,756900,0.0,0.0,High
+201350,Bell Gardens,0.0,CA,Los Angeles,453900,0.0,0.0,Low
+201351,Monrovia,0.0,CA,Los Angeles,746500,0.0,0.0,Mid
+201352,Rowland Heights,0.0,CA,Los Angeles,672200,0.0,0.0,Mid
+201353,La Puente,0.0,CA,Los Angeles,459100,0.0,0.0,Low
+201354,Agua Dulce,0.0,CA,Los Angeles,701000,0.0,0.0,Mid
+201355,Altadena,0.0,CA,Los Angeles,821500,0.0,0.0,High
+201356,Beverly Hills,0.0,CA,Los Angeles,5964800,0.0,0.0,High
+201357,Bell,0.0,CA,Los Angeles,425600,0.0,0.0,Low
+201358,Manhattan Beach,0.0,CA,Los Angeles,2567000,0.0,0.0,High
+201359,Westmont,0.0,CA,Los Angeles,460400,0.0,0.0,Low
+201360,Rancho Palos Verdes,0.0,CA,Los Angeles,1386000,0.0,0.0,High
+201361,Lawndale,0.0,CA,Los Angeles,560200,0.0,0.0,Mid
+201362,San Dimas,0.0,CA,Los Angeles,653700,0.0,0.0,Mid
+201363,Temple City,0.0,CA,Los Angeles,788400,0.0,0.0,High
+201364,Walnut,0.0,CA,Los Angeles,797000,0.0,0.0,High
+201365,Maywood,0.0,CA,Los Angeles,410100,0.0,0.0,Low
+201366,South Pasadena,0.0,CA,Los Angeles,1247800,0.0,0.0,High
+201367,San Fernando,0.0,CA,Los Angeles,480100,0.0,0.0,Low
+201368,La Verne,0.0,CA,Los Angeles,682800,0.0,0.0,Mid
+201369,Cudahy,0.0,CA,Los Angeles,446400,0.0,0.0,Low
+201370,Agoura Hills,0.0,CA,Los Angeles,1034600,0.0,0.0,High
+201371,West Carson,0.0,CA,Los Angeles,576500,0.0,0.0,Mid
+201372,South El Monte,0.0,CA,Los Angeles,484200,0.0,0.0,Low
+201373,Lomita,0.0,CA,Los Angeles,712200,0.0,0.0,Mid
+201374,La Canada Flintridge,0.0,CA,Los Angeles,1833900,0.0,0.0,High
+201375,Duarte,0.0,CA,Los Angeles,551700,0.0,0.0,Mid
+201376,La Crescenta-Montrose,0.0,CA,Los Angeles,929300,0.0,0.0,High
+201377,Willowbrook,0.0,CA,Los Angeles,391700,0.0,0.0,Low
+201378,El Segundo,0.0,CA,Los Angeles,1340800,0.0,0.0,High
+201379,Artesia,0.0,CA,Los Angeles,590100,0.0,0.0,Mid
+201380,South San Jose Hills,0.0,CA,Los Angeles,444400,0.0,0.0,Low
+201381,West Whittier-Los Nietos,0.0,CA,Los Angeles,479600,0.0,0.0,Low
+201382,Santa Fe Springs,0.0,CA,Los Angeles,490100,0.0,0.0,Low
+201383,West Puente Valley,0.0,CA,Los Angeles,470500,0.0,0.0,Low
+201384,Calabasas,0.0,CA,Los Angeles,1141300,0.0,0.0,High
+201385,Valinda,0.0,CA,Los Angeles,484700,0.0,0.0,Low
+201386,Hawaiian Gardens,0.0,CA,Los Angeles,435600,0.0,0.0,Low
+201387,Commerce,0.0,CA,Los Angeles,440300,0.0,0.0,Low
+201388,Castaic,0.0,CA,Los Angeles,569500,0.0,0.0,Mid
+201389,Malibu,0.0,CA,Los Angeles,3500700,0.0,0.0,High
+201390,Sierra Madre,0.0,CA,Los Angeles,1077500,0.0,0.0,High
+201391,View Park-Windsor Hills,0.0,CA,Los Angeles,847700,0.0,0.0,High
+201392,San Marino,0.0,CA,Los Angeles,2434200,0.0,0.0,High
+201393,Littlerock,0.0,CA,Los Angeles,269900,0.0,0.0,Low
+201394,Avocado Heights,0.0,CA,Los Angeles,560300,0.0,0.0,Mid
+201395,Signal Hill,0.0,CA,Los Angeles,687500,0.0,0.0,Mid
+201396,West Athens,0.0,CA,Los Angeles,487500,0.0,0.0,Low
+201397,Palos Verdes Estates,0.0,CA,Los Angeles,2143400,0.0,0.0,High
+201398,Alondra Park,0.0,CA,Los Angeles,617400,0.0,0.0,Mid
+201399,Topanga,0.0,CA,Los Angeles,1268900,0.0,0.0,High
+201400,Ladera Heights,0.0,CA,Los Angeles,1273400,0.0,0.0,High
+201401,East La Mirada,0.0,CA,Los Angeles,587500,0.0,0.0,Mid
+201402,La Habra Heights,0.0,CA,Los Angeles,979700,0.0,0.0,High
+201403,Acton,0.0,CA,Los Angeles,596900,0.0,0.0,Mid
+201404,Avalon,0.0,CA,Los Angeles,759100,0.0,0.0,High
+201405,Pearblossom,0.0,CA,Los Angeles,235600,0.0,0.0,Low
+201406,Rolling Hills Estates,0.0,CA,Los Angeles,1565800,0.0,0.0,High
+201407,Rolling Hills,0.0,CA,Los Angeles,3346100,0.0,0.0,High
+201408,Hidden Hills,0.0,CA,Los Angeles,3323600,0.0,0.0,High
+201409,Palos Verdes Peninsula,0.0,CA,Los Angeles,1562100,0.0,0.0,High
+201410,Lake Hughes,0.0,CA,Los Angeles,285100,0.0,0.0,Low
+201411,East Pasadena,0.0,CA,Los Angeles,1006900,0.0,0.0,High
+201412,Green Valley,0.0,CA,Los Angeles,274200,0.0,0.0,Low

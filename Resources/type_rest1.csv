@@ -1,0 +1,14 @@
+,ethnicity,name,address,price_level,rating
+0,chinese,ABC Express Chinese Food,"1907 Alameda St, Vernon",,3.1
+1,french,La Villa Basque,"2801 Leonis Blvd, Vernon",2,3.2
+2,greek,The Green Olive,"3632 S Soto St, Vernon",,4.2
+3,indian,Taste of India,"5937 State St, Huntington Park",,4.2
+4,italian,Trattoria 25,"2501 S Santa Fe Ave, Vernon",,4.4
+5,japanese,Lucas Lee Japanese Cuisine Restaurant,"3616 S Soto St, Vernon",,5
+6,korean,Manna Korean BBQ,"333 Alameda St #305, Los Angeles",2,4.1
+7,mexican,El Borrego De Oro Restaurant,"2808 E Washington Blvd, Los Angeles",2,4
+8,new american,Super Lunch,"2800 S Santa Fe Ave, Vernon",,5
+9,soul food,Comfort LA,"1110 E 7th St, Los Angeles",,4.5
+10,spanish,Bäco Mercat,"408 S Main St, Los Angeles",2,4.4
+11,thai,Thai Silk Restaurant,"1300 S Soto St, Los Angeles",,5
+12,vietnamese,Blossom Restaurant,"426 S Main St, Los Angeles",2,4.2

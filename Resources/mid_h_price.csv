@@ -1,0 +1,9 @@
+,RegionName,State,CountyName,2018-05,Unnamed: 0,Price level,Rating,Latitude,Longitude,House Price Ranking,counts
+0,Los Angeles,CA,Los Angeles,714700.0,7.0,0.0,4.7,33.9888277,-118.3340017,Mid,4186
+37,Long Beach,CA,Los Angeles,633200.0,5.0,2.0,4.6,33.7706309,-118.18221090000002,Mid,634
+53,Inglewood,CA,Los Angeles,571700.0,6.0,2.0,4.6,33.963341899999996,-118.35159740000002,Mid,14
+57,Downey,CA,Los Angeles,572400.0,0.0,0.0,0.0,0.0,0.0,Mid,3
+70,Whittier,CA,Los Angeles,580200.0,0.0,0.0,0.0,0.0,0.0,Mid,27
+79,Hacienda Heights,CA,Los Angeles,683900.0,0.0,0.0,0.0,0.0,0.0,Mid,3
+80,Cerritos,CA,Los Angeles,742700.0,60.0,0.0,4.3,33.8664609,-118.09279850000001,Mid,9
+94,Claremont,CA,Los Angeles,701700.0,0.0,0.0,0.0,0.0,0.0,Mid,7

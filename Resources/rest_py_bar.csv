@@ -1,20 +1,21 @@
-,RegionName,counts,State,CountyName,2018-05,Unnamed: 0_x,Rating_x,House Price Ranking,Unnamed: 0_y
-0,Arcadia,28.0,CA,Los Angeles,1282500,76.0,4.7,High,439.0
-28,Cerritos,8.0,CA,Los Angeles,742700,60.0,4.3,Mid,4021.0
-36,Claremont,7.0,CA,Los Angeles,701700,0.0,0.0,Mid,3774.0
-43,Culver City,1024.0,CA,Los Angeles,1317500,8.0,4.2,High,9.0
-9259,Downey,3.0,CA,Los Angeles,572400,0.0,0.0,Mid,2340.0
-9262,Glendale,25.0,CA,Los Angeles,927000,0.0,0.0,High,18.0
-9287,Hacienda Heights,3.0,CA,Los Angeles,683900,0.0,0.0,Mid,3722.0
-9290,Hermosa Beach,464.0,CA,Los Angeles,1979800,4.0,4.5,High,64.0
-9754,Inglewood,468.0,CA,Los Angeles,571700,6.0,4.6,Mid,21.0
-11626,Long Beach,606.0,CA,Los Angeles,633200,5.0,4.6,Mid,37.0
-14656,Los Angeles,4381.0,CA,Los Angeles,714700,7.0,4.7,Mid,0.0
-176753,Norwalk,30.0,CA,Los Angeles,480100,61.0,4.4,Low,2341.0
-176783,Pasadena,40.0,CA,Los Angeles,921500,77.0,4.3,High,433.0
-176823,Redondo Beach,507.0,CA,Los Angeles,1197400,2.0,4.7,High,35.0
-179865,San Gabriel,25.0,CA,Los Angeles,814400,66.0,4.4,High,217.0
-179890,Santa Monica,1219.0,CA,Los Angeles,2665300,13.0,4.6,High,74.0
-193299,Torrance,932.0,CA,Los Angeles,866700,0.0,4.6,High,60.0
-200755,West Hollywood,28.0,CA,Los Angeles,1764600,19.0,4.5,High,16.0
-200867,Whittier,21.0,CA,Los Angeles,580200,0.0,0.0,Mid,3720.0
+,RegionName,State,CountyName,2018-05,Unnamed: 0,Price level,Rating,Latitude,Longitude,House Price Ranking,counts
+0,Los Angeles,CA,Los Angeles,714700.0,7.0,0.0,4.7,33.9888277,-118.3340017,Mid,4186
+37,Long Beach,CA,Los Angeles,633200.0,5.0,2.0,4.6,33.7706309,-118.18221090000002,Mid,634
+42,Glendale,CA,Los Angeles,927000.0,0.0,0.0,0.0,0.0,0.0,High,23
+43,Pomona,CA,Los Angeles,422000.0,0.0,0.0,0.0,0.0,0.0,Low,1
+44,Pasadena,CA,Los Angeles,921500.0,77.0,2.0,4.3,34.1410298,-118.1318744,High,33
+45,Torrance,CA,Los Angeles,866700.0,0.0,2.0,4.6,33.836677200000004,-118.31893500000001,High,1405
+53,Inglewood,CA,Los Angeles,571700.0,6.0,2.0,4.6,33.963341899999996,-118.35159740000002,Mid,14
+57,Downey,CA,Los Angeles,572400.0,0.0,0.0,0.0,0.0,0.0,Mid,3
+58,Norwalk,CA,Los Angeles,480100.0,61.0,0.0,4.4,33.902809399999995,-118.05391399999999,Low,46
+59,Santa Monica,CA,Los Angeles,2665300.0,13.0,2.0,4.6,34.016769200000006,-118.4912757,High,1380
+70,Whittier,CA,Los Angeles,580200.0,0.0,0.0,0.0,0.0,0.0,Mid,27
+71,Redondo Beach,CA,Los Angeles,1197400.0,2.0,2.0,4.7,33.8189633,-118.3878771,High,507
+77,Arcadia,CA,Los Angeles,1282500.0,76.0,0.0,4.7,34.1432717,-118.03194009999999,High,26
+78,San Gabriel,CA,Los Angeles,814400.0,66.0,0.0,4.4,34.0796122,-118.093476,High,21
+79,Hacienda Heights,CA,Los Angeles,683900.0,0.0,0.0,0.0,0.0,0.0,Mid,3
+80,Cerritos,CA,Los Angeles,742700.0,60.0,0.0,4.3,33.8664609,-118.09279850000001,Mid,9
+81,Culver City,CA,Los Angeles,1317500.0,8.0,1.0,4.2,34.00424,-118.409539,High,1002
+90,West Hollywood,CA,Los Angeles,1764600.0,19.0,1.0,4.5,34.090790999999996,-118.390096,High,54
+94,Claremont,CA,Los Angeles,701700.0,0.0,0.0,0.0,0.0,0.0,Mid,7
+95,Hermosa Beach,CA,Los Angeles,1979800.0,4.0,0.0,4.5,33.8645386,-118.3966923,High,464

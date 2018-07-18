@@ -1,0 +1,11 @@
+,RegionName,State,CountyName,2018-05,Unnamed: 0,Price level,Rating,Latitude,Longitude,House Price Ranking,counts
+42,Glendale,CA,Los Angeles,927000.0,0.0,0.0,0.0,0.0,0.0,High,23
+44,Pasadena,CA,Los Angeles,921500.0,77.0,2.0,4.3,34.1410298,-118.1318744,High,33
+45,Torrance,CA,Los Angeles,866700.0,0.0,2.0,4.6,33.836677200000004,-118.31893500000001,High,1405
+59,Santa Monica,CA,Los Angeles,2665300.0,13.0,2.0,4.6,34.016769200000006,-118.4912757,High,1380
+71,Redondo Beach,CA,Los Angeles,1197400.0,2.0,2.0,4.7,33.8189633,-118.3878771,High,507
+77,Arcadia,CA,Los Angeles,1282500.0,76.0,0.0,4.7,34.1432717,-118.03194009999999,High,26
+78,San Gabriel,CA,Los Angeles,814400.0,66.0,0.0,4.4,34.0796122,-118.093476,High,21
+81,Culver City,CA,Los Angeles,1317500.0,8.0,1.0,4.2,34.00424,-118.409539,High,1002
+90,West Hollywood,CA,Los Angeles,1764600.0,19.0,1.0,4.5,34.090790999999996,-118.390096,High,54
+95,Hermosa Beach,CA,Los Angeles,1979800.0,4.0,0.0,4.5,33.8645386,-118.3966923,High,464
